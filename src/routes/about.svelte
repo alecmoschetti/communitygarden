@@ -13,7 +13,7 @@
 	<h1>About our toolshed</h1>
 	<div class="grid">
 		<aside class="photo_1">
-			<img src="static/stockdog.png" alt="corgi" loading=lazy>
+			<img src="/stockdog.png" alt="corgi" loading=lazy>
 		</aside>
 		<article class="story_1">
 			<h3>It all starts with a <span class="highlight">dog</span></h3>
@@ -23,7 +23,7 @@
 			<p>Alias, a tempora! Deserunt quisquam a mollitia voluptatem, beatae veniam minima cum inventore, tempora vel debitis molestiae autem eligendi voluptate architecto cupiditate quae nostrum fuga. Dolore quidem debitis dolor non.</p>
 		</article>
 		<aside class="photo_2">
-			<img src="static/stockscissors.png" alt="garden scissors" loading=lazy>
+			<img src="/stockscissors.png" alt="garden scissors" loading=lazy>
 		</aside>
 		<article class="story_2">
 			<h3>Where we are <span class="highlight">now</span></h3>
@@ -33,7 +33,7 @@
 			<p>Minima, corrupti. Earum accusamus hic et provident ad quos nihil debitis unde ipsum, neque repellendus voluptates enim veniam facere itaque asperiores aliquid, exercitationem assumenda! Nam ad nostrum hic consequuntur recusandae.</p>
 		</article>
 		<aside class="photo_3">
-			<img src="static/stocktown.png" alt="aerial view of small town" loading=lazy>
+			<img src="/stocktown.png" alt="aerial view of small town" loading=lazy>
 		</aside>
 	</div>
 </div>

@@ -1,6 +1,6 @@
 <div class="image_wrapper">
     <div class="image_container">
-        <img src="static/stocktool.png" alt="pickaxe in dirt" loading=lazy>
+        <img src="/stocktool.png" alt="pickaxe in dirt" loading=lazy>
     </div>
 </div>
 
