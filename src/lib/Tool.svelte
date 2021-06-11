@@ -93,6 +93,8 @@
     }
     .back {
         margin: 2% 0;
+        background-color: var(--off-white);
+        color: var(--black-color);
     }
     @media (min-width: 780px) {
         section {

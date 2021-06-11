@@ -38,7 +38,7 @@
             <h5>Total price: FREE</h5>
         </div>
         <div class="flex">
-            <button on:click={handleClick}>Checkout</button>
+            <button class="checkout" on:click={handleClick}>Checkout</button>
         </div>
     {:else}
     <p>Cart is empty</p>
@@ -81,6 +81,10 @@
     button.remove {
         background-color: var(--secondary-color);
         color: var(--off-white);
+    }
+    button.checkout {
+        background-color: var(--off-white);
+        color: var(--black-color);
     }
     @media (min-width: 780px) {
         .flexible-grid {
